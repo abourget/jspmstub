@@ -1,0 +1,11 @@
+{
+  "name": "pkg2",
+  "version": "dev",
+  "type": "module",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "dependencies": {
+    "pkg1": "1.0.0"
+  }
+}
