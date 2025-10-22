@@ -6,7 +6,7 @@ cd pkg2
 ./run_jspm.sh
 ```
 
-4.1.0 produces:
+4.1.4 produces (same effect since 4.1.0):
 ```
 ({
   "imports": {
