@@ -1,5 +1,6 @@
 Run:
 
+After running https://github.com/abourget/jspmstub/blob/master/pkg2/run_jspm.sh :
 ```bash
 cd pkg2
 ./run_jspm.sh
